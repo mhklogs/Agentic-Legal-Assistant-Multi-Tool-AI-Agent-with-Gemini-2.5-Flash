@@ -1,0 +1,2 @@
+# Agentic-Legal-Assistant-Multi-Tool-AI-Agent-with-Gemini-2.5-Flash
+Autonomous AI agent built with the Google Gen AI SDK and Gemini 2.5 Flash. This Colab-optimized project features system-driven personas, automated function calling, and iterative response loops. It provides a modular foundation for specialized agents, such as legal assistants, capable of executing code and grounding answers in real-time data.
